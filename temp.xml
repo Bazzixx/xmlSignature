@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Naver coding convention for Java (version 1.2)  --><!-- This rule file requires Checkstyle version 8.24 or above. --><!--
+The following rules in the Naver coding convention cannot be checked by this configuration file.
+
+- [avoid-korean-pronounce]
+- [class-noun]
+- [interface-noun-adj]
+- [method-verb-preposition]
+- [space-after-bracket]
+- [space-around-comment]
+--><module name="Checker">
+	<property name="severity" value="warning"/>
+
+</module>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<module name="Checker" Id="module-to-sign">
+    <property name="severity" value="warning"/>
+</module>

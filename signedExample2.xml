@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><module Id="module-to-sign" name="Checker">
+    <property name="severity" value="warning"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI="#module-to-sign"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>UphUDCluuu8+ZLpUHWZehPosX/sYk0jwCnLZ+q3dWvI=</DigestValue></Reference></SignedInfo><SignatureValue>PHWhTwvpFiGfqCaMVzG69Q2zq1sBeI/ma7VZo0Q9Qq+QVpNapONnOnsmiG03WPt58zYuK5LbaZ9e&#13;
+rAeI1fN6jfkGdaC6jGIHLxCt4I7ow8ChCbmqZBs/4mv45/nbLqISrtiUf45mufLKyLa+3z42pvpZ&#13;
+WcEkzovdYoEwrhFU1nNRa0gKinMXYVA973ozThoWhJ1RBe1/o+P0Tmjrn8BfovH3bL7FFPu4pf52&#13;
++s8BZvWA5N7oGIyd+kjbNjWoADw1T05WUGR1r7DYky9UkA21vZs7TCuSVBCw20VehOgOjrcaQQka&#13;
+gqILrfBOtD+tMx2RrKQduX+A9nzErNtClpZuqw==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>n6ULy4/2ObP49f/2PYLVb+VGd9lzWfNXTY1ziFJznIQpgqq/cozNjFnh2qGJ3DcPaosmtQQK2tSz&#13;
+x1aOJZR7FjczmW43guMsuFvwxErufRRBiM7OjbS+pb1WDZej2y4iIIpg2Xz6azBMBBc/cOa4HEMX&#13;
+4/cYsfNoTqFTzffB5Zi7Sl/0U/JkXBAW9hfiO4UntOo/+N2YbymnrxmSPRWcIpL22ERSxeeK9BRc&#13;
+9Sno3BnxTbKb1oCgjIRntxl/eymn4Q6DIixgMkKq3NVrTZ2MZPpHVBIaMLEsGOthnumMN0SG+wN3&#13;
+Qq39O1RlJMREe9TxTJCOeL6gAx7P2cChOO0sfQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></module>
